@@ -11,6 +11,7 @@ This is a collaborative Quarto project.
 # Contributions
 
 <!-- Student sections will go here -->
+
 # Jing’s Section
 
 This is my contribution to the Quarto project.
